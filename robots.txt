@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lcdigitalinnovations.co.za/sitemap.xml
